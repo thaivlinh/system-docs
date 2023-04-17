@@ -1,4 +1,4 @@
-# Website
+# System Docs
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
@@ -13,7 +13,7 @@ Cập nhật Docs ở branch **master**
 ### Deploy
 Để deploy lên Github Pages chạy lệnh
 ```
-set USE_SSH=true && set CURRENT_BRANCH=docs && pnpm run deploy
+pnpm run deploy
 ```
 
 ### Host
