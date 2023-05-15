@@ -2,10 +2,6 @@
 sidebar_position: 1
 ---
 
-# Giới thiệu
+# Intro
 
-Docs cho hệ thống
-
-### Backend
-
-- NestJS
+System Docs
